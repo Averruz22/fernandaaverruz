@@ -1,0 +1,293 @@
+@font-face{
+	font-family: fernanda;
+	src:url("../fonts/Fuzzy_Bubbles/FuzzyBubbles-Regular.ttf"),url("../fonts/Fuzzy_Bubbles/FuzzyBubbles-Bold.ttf");
+}
+:root{
+	--color-rosa:#EDCECE;
+	--color-texto:#fff;
+}
+body{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 14px;
+	background-color:#F493BB;
+}
+header{
+    background-color: #EDCECE;
+}
+.section{
+	padding:20px 0;
+	min-height:300px;
+}
+
+
+#hero{
+	background-image: url("../img/7FA4585A-C9F7-4688-806D-C7AF7F26DC41_1_105_c.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	padding: 15% 0;
+}
+
+	
+#acerca-de-mi h2{
+	align-content: center;
+	padding: 0% 20%;
+	text-align: center;
+	font-family: fernanda;
+	color: #C95557;
+	
+}
+
+#acerca-de-mi p{
+	align-content: center;
+	padding: 0% 20%;
+	text-align: center;
+	font-size: 19px;
+	
+}
+
+#acerca-de-mi h3{
+	align-content: center;
+	padding: 0% 20%;
+	text-align: center;
+	font-family: fernanda;
+	color: #C95557;
+	
+}
+
+#acerca-de-mi h4{
+	align-content: center;
+	padding: 0% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+
+#Servicios h4{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+
+#Servicios p{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+	
+
+#Servicios i{
+	color:#C95557;
+	font-size: 40px;
+	margin-bottom: 30px;
+	align-content: center;
+	
+}
+
+#Servicios-2 h4{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+
+#Servicios-2 p{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+
+#Servicios-2 i{
+	color:#C95557;
+	font-size: 40px;
+	margin-bottom: 30px;
+	align-content: center;
+}
+
+#Servicios-3 h4{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+
+#Servicios-3 p{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+
+#Servicios-3 i{
+	color: #C95557;
+	font-size: 40px;
+	margin-bottom: 30px;
+	align-content: center;
+}
+
+#Portafolio h4{
+	color: #C95557;
+	font-family: fernanda;
+	padding: 0% 20%;
+	text-align: center;
+	
+}
+
+#Portafolio h3{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 40px;
+	color:  #C95557;
+}
+
+
+#Portafolio h5{
+	align-content: center;
+	padding: 0% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+
+#Portafolio p{
+	align-content: center;
+	padding: 0% 20%;
+	text-align: center;
+	font-size: 19px;
+}
+
+#Portafolio img{
+	background-size:auto;
+	width: 30%;
+	height: 30%;
+}
+
+#Portafolio-2 img{
+	background-size:auto;
+	width: 30%;
+	height: 30%;
+}
+
+#Portafolio-3 img{
+	background-size:auto;
+	width: 30%;
+	height: 30%;
+}
+
+#Portafolio-4 img{
+	background-size:auto;
+	width: 40%;
+	height: 40%;
+}
+
+#Portafolio-4 h3{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 30px;
+	color: #C95557;
+	
+}
+#Portafolio-5 img{
+	background-size:auto;
+	width: 40%;
+	height: 40%;
+}
+
+#Portafolio-6 img{
+	background-size:auto;
+	width: 40%;
+	height: 40%;
+}
+
+
+
+#contact{
+	background-color: #C67698;
+	padding: 20px 0;
+}
+#Fernanda-Averruz {
+	background-color:#F18D8F;
+	text-align: center;
+}
+
+#Fernanda-Averruz p{
+	text-align: center;
+	padding: 20px 0;
+	align-content: center;
+}
+
+#otros-proyectos h3{
+	align-content: center;
+	padding: 1% 20%;
+	text-align: center;
+	font-size: 19px;
+
+}
+
+#otros-proyectos h2{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 30px;
+	font-family: fernanda;
+	color: #C95557;
+
+}
+
+#otros-proyectos-2 h4{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 30px;
+	font-family: fernanda;
+	color: #C95557;
+
+}
+#otros-proyectos-2 p{
+	align-content: center;
+	padding: 0 20%;
+	text-align: center;
+	font-size: 20px;
+
+}
+
+#otros-proyectos-2 img{
+	background-size:auto;
+	width: 40%;
+	height: 40%;
+}
+
+#otros-proyectos-3 img{
+	background-size:auto;
+	width: 40%;
+	height: 40%;
+}
+
+#otros-proyectos-3 h5{
+	align-content: center;
+	padding: 2% 20%;
+	text-align: center;
+	font-size: 30px;
+	font-family: fernanda;
+	color: #C95557;
+	
+
+}
+
+#otros-proyectos-3 p{
+	align-content: center;
+	padding: 0 20%;
+	text-align: center;
+	font-size: 20px;
+
+}
+
+
+
+
+
+
